@@ -240,3 +240,4 @@ cd frontend && npm run build
 
 Made with ❤️ for IEEE CS chapters everywhere.
 "# ieecs" 
+"# ieeecs" 
